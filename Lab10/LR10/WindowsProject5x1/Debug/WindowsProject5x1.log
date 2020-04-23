@@ -1,0 +1,4 @@
+﻿  WindowsProject5x1.cpp
+C:\Users\User\Source\Repos\WindowsProjectSP5\WindowsProject5x1\WindowsProject5x1.cpp(151,12): warning C4101: 'wmEvent': unreferenced local variable
+C:\Users\User\Source\Repos\WindowsProjectSP5\WindowsProject5x1\WindowsProject5x1.cpp(151,6): warning C4101: 'wmId': unreferenced local variable
+  WindowsProject5x1.vcxproj -> C:\Users\User\Source\Repos\WindowsProjectSP5\Debug\WindowsProject5x1.exe

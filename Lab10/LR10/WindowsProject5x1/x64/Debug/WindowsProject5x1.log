@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (WindowsProject5x1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Prog1.cpp
+D:\Labs\SP\Lab10\LR10\WindowsProject5x1\Prog1.cpp(143,11): warning C4244: =: преобразование "LPARAM" в "int", возможна потеря данных
+D:\Labs\SP\Lab10\LR10\WindowsProject5x1\Prog1.cpp(148,11): warning C4244: =: преобразование "LPARAM" в "int", возможна потеря данных
+D:\Labs\SP\Lab10\LR10\WindowsProject5x1\Prog1.cpp(133,12): warning C4101: wmEvent: неиспользованная локальная переменная
+D:\Labs\SP\Lab10\LR10\WindowsProject5x1\Prog1.cpp(133,6): warning C4101: wmId: неиспользованная локальная переменная
+  WindowsProject5x1.vcxproj -> D:\Labs\SP\Lab10\LR10\x64\Debug\Prog1.exe
